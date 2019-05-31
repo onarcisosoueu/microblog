@@ -1,3 +1,4 @@
-# microblog - A blog built using Flask (A python microframework)
-
-### This is my first commited project using flask :)
+# Microblog 
+## A blog built using Flask (Python Microframework)
+### This is my first commited project using flask ! 
+#### (Work in progress)
