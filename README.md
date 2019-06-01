@@ -7,3 +7,5 @@
 ###### flask-sqlalchemy
 ###### flask-migrate
 
+###### Built following the tutorial published in: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
